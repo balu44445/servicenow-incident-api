@@ -1,4 +1,4 @@
-<img width="1439" height="848" alt="Screenshot 2026-04-14 at 2 48 31 PM" src="https://github.com/user-attachments/assets/7c282c84-a477-4f2c-b629-c7e4ba50f251" />
+
 # servicenow-incident-api
 
 A custom REST API I built on ServiceNow to manage incidents — plus an outbound webhook that fires automatically when a new incident gets created.
@@ -128,7 +128,7 @@ Every time a new incident is created, a Business Rule triggers automatically and
 Created incident INC0010005 through the POST endpoint. The Business Rule fired automatically and the webhook received the payload with the real incident data:
 
 ![webhook showing INC0010005](screenshot.png)
-
+<img width="1439" height="848" alt="Screenshot 2026-04-14 at 2 48 31 PM" src="https://github.com/user-attachments/assets/7c282c84-a477-4f2c-b629-c7e4ba50f251" />
 ---
 
 ## Stack
